@@ -1,0 +1,1 @@
+flutter build apk --dart-define ACCESS_TOKEN=sk.eyJ1Ijoib2dpbHZpZWxpYW0iLCJhIjoiY2wyemRlMHNyMDNzdDNwcDY3cGJpZjBjZCJ9.dGfejZYJJpvCZuBGNCab0w
