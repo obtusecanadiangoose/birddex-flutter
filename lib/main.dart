@@ -37,12 +37,11 @@ class MapsDemo extends StatefulWidget {
   //static const String ACCESS_TOKEN = String.fromEnvironment("ACCESS_TOKEN");
 
   //use sk for android (and ios I think?)
-  static const String ACCESS_TOKEN =
-      'sk.eyJ1Ijoib2dpbHZpZWxpYW0iLCJhIjoiY2wyemRlMHNyMDNzdDNwcDY3cGJpZjBjZCJ9.dGfejZYJJpvCZuBGNCab0w';
+  static const String ACCESS_TOKEN = "mapbox token";
 
   //use pk for web
   //static const String ACCESS_TOKEN =
-  //    'pk.eyJ1Ijoib2dpbHZpZWxpYW0iLCJhIjoiY2t0cWo5OTdyMHIwNjJ1cXN5dGdrc3UxbiJ9.pYwKqx5yeorTKH62sOrltA';
+  //    'mapbox token';
 
   @override
   State<MapsDemo> createState() => _MapsDemoState();
